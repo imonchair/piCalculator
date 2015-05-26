@@ -1,0 +1,5 @@
+/home/jack/Desktop/pi/pi/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jack/Desktop/pi/pi/bin/Debug/pi.exe.mdb
+/home/jack/Desktop/pi/pi/bin/Debug/pi.exe
+/home/jack/Desktop/pi/pi/obj/x86/Debug/pi.exe
+/home/jack/Desktop/pi/pi/obj/x86/Debug/pi.exe.mdb
